@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of markokaartinen/flarum-ext-finnish.** Not for installation: use [Packagist](https://packagist.org/packages/markokaartinen/flarum-ext-finnish) or the [upstream repository](https://github.com/MarkoKaartinen/flarum-ext-finnish).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/markokaartinen-flarum-ext-finnish/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**2** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/markokaartinen-flarum-ext-finnish/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.3` | 2016-04-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/markokaartinen-flarum-ext-finnish/tree/archive/v0.1.3) |
+| `v0.1.4` | 2016-06-23 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/markokaartinen-flarum-ext-finnish/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/markokaartinen-flarum-ext-finnish.json](https://github.com/flarchive/archive-index/blob/main/packages/markokaartinen-flarum-ext-finnish.json)
 
